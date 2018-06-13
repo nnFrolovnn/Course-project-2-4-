@@ -1,2 +1,2 @@
-# Course-project-2-4-
+# Course-project-2-4
 Currency сonverter
