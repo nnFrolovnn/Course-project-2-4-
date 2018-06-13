@@ -1,0 +1,25 @@
+
+===================================== Created in : 13:28 =====================================
+13:28:37.2298590 : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в CurrencyRates.FormMain.DrawFunc(RateShort[] rateShort) в D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\FormMain.cs:строка 312
+   в CurrencyRates.FormMain.buttonGetStat_Click(Object sender, EventArgs e) в D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\FormMain.cs:строка 294
+13:28:37.6829690 : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в CurrencyRates.FormMain.DrawFunc(RateShort[] rateShort) в D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\FormMain.cs:строка 312
+   в CurrencyRates.FormMain.buttonGetStat_Click(Object sender, EventArgs e) в D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\FormMain.cs:строка 294
+13:28:37.8548385 : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в CurrencyRates.FormMain.DrawFunc(RateShort[] rateShort) в D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\FormMain.cs:строка 312
+   в CurrencyRates.FormMain.buttonGetStat_Click(Object sender, EventArgs e) в D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\FormMain.cs:строка 294
+
+===================================== Closed in : 13:29 =====================================
+
+===================================== Opend  in : 13:29 =====================================
+
+===================================== Closed in : 13:30 =====================================
+
+===================================== Opend  in : 13:32 =====================================
+
+===================================== Closed in : 13:32 =====================================
+
+===================================== Opend  in : 16:08 =====================================
+
+===================================== Closed in : 16:15 =====================================

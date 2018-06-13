@@ -1,0 +1,15 @@
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.CurrencyBoxCont.resources
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.Properties.Resources.resources
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.csproj.GenerateResource.Cache
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.csproj.CoreCompileInputs.cache
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\bin\Debug\img\Long Arrow Up_25px.png
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\bin\Debug\img\Arrow Pointing Down_25px1.png
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\bin\Debug\CurrencyRates.exe.config
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\bin\Debug\CurrencyRates.exe
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\bin\Debug\CurrencyRates.pdb
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\bin\Debug\AngleSharp.dll
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\bin\Debug\AngleSharp.xml
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.exe
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.pdb
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.csprojResolveAssemblyReference.cache
+D:\учеба\4 Семестр\CourseWork\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.FormMain.resources
